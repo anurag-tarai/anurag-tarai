@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Tarai</h1>
-<h3 align="center">A passionate **Java Backend Developer** from India</h3>
+<h3 align="center">A passionate Java Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-tarai&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-tarai" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Farmer Connect](https://farmer-connect-web.vercel.app/)
 
-- 🌱 I’m currently learning **- **Microservices (Eureka, API Gateway, Feign Client)** - **Advanced AWS (Load Balancers, Auto Scaling, IAM policies)** - **Docker + CI/CD pipelines** - **System Design basics** - **PostgreSQL performance optimization****
+- 🌱 I’m currently learning Microservices (Eureka, API Gateway, Feign Client)
 
 - 👨‍💻 All of my projects are available at [https://github.com/anurag-tarai](https://github.com/anurag-tarai)
 
-- 💬 Ask me about ****Java, Spring Boot, REST APIs, JPA/Hibernate, JWT Security, Redis, MySQL, MongoDB, AWS EC2/S3/RDS, Docker, Scalable backend design****
+- 💬 Ask me about Java, Spring Boot, REST APIs, JPA/Hibernate, JWT Security, Redis, MySQL, MongoDB, AWS EC2/S3/RDS, Docker, Scalable backend design
 
-- 📫 How to reach me **anurag.tarai01@gmail.com**
+- 📫 How to reach me anurag.tarai01@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1D4zhP6HAkRqKvDSx9K6-J8vcRQKHbNT7/view?usp=drive_link](https://drive.google.com/file/d/1D4zhP6HAkRqKvDSx9K6-J8vcRQKHbNT7/view?usp=drive_link)
 
