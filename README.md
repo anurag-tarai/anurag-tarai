@@ -11,7 +11,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&text=💻&fontSize=30&animation=twinkling" />
 </div>
 
-## Tech Stack
+## Tech Skills
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java"/>
   <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="45" alt="Spring Boot"/>
