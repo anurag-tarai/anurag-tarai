@@ -8,10 +8,8 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3BB371&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL+%7C+AWS;Building+Scalable+Production+Systems" alt="Typing SVG"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&text=💻&fontSize=30&animation=twinkling" />
 </div>
-
----
 
 ## Tech Stack
 <p align="center">
@@ -27,9 +25,6 @@
 </p>
 
 
-
----
-
 ## Connect With Me
 <p align="center" style="margin-top: 10px;">
   <a href="https://linkedin.com/in/anurag-tarai" target="_blank" style="margin-right: 15px;">
@@ -42,7 +37,6 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&text=💻&fontSize=30&animation=twinkling" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding&fontSize=24&animation=twinkling" />
 </div>
 
